@@ -65,6 +65,11 @@ db.sqlite3-journal
 instance/
 .webassets-cache
 
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+
 # Scrapy stuff:
 .scrapy
 
